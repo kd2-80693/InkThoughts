@@ -11,7 +11,7 @@
  <div class = "container-fluid p-0 m-2">
    <%@ include file="navigationbar.jsp" %>
    <h1 style='text-align:center;'>Thought is added successfully</h1>
-   <h4 style='text-align:center;'><a href='all_thoughts.jsp'>View all notes</a></h4>
+   <h4 style='text-align:center;'><a href='all_thoughts.jsp'><button type="submit" class="btn btn-success">Show ALL Thoughts</button></a></h4>
    </div>
 	
 </body>

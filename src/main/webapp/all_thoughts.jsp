@@ -16,7 +16,7 @@
 	<div class="container-fluid p-0 m-2">
 		<%@ include file="navigationbar.jsp"%>
 		<br>
-		<h1 class="text-uppercase">All Notes:</h1>
+		<h1 class="text-uppercase">All Thoughts:</h1>
 		<div class="row">
 			<div class="col-12">
 				<%
